@@ -1,4 +1,5 @@
-###AI-Powered Music Generation Using Emotion and Artist Style
+#AI-Powered Music Generation Using Emotion and Artist Style
+
 Project Description: This project leverages artificial intelligence techniques to generate personalized music based on user preferences, specifically incorporating emotional content and artist style. The aim is to bridge the gap in the market where users struggle to find personalized songs. By creating a diverse dataset of songs from Hindi/Bollywood and English artists, this project enables the generation of new music that captures the unique emotional and stylistic elements of the selected artists.
 
 Key Features:
